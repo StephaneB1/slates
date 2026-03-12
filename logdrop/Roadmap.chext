@@ -13,7 +13,7 @@ This page is the canonical planning document. It is generated from the repo — 
 that closes a roadmap task updates this page automatically via Slatesource.
 
 :NOW
-v2.0 in active design — no release date committed yet. Breaking changes expected.
+v2.1 in active design — no release date committed yet. Breaking changes expected.
 
 :CHECKLIST
 Core Architecture
