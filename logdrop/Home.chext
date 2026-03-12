@@ -1,0 +1,71 @@
+// ============================================================
+// logdrop — Home page
+// Main overview: who maintains it, what it does, key stats,
+// links, and how to reach the maintainer.
+// ============================================================
+
+:PROFILE
+Marcus Oliveira
+Berlin, Germany
+Backend engineer & open source tinkerer. Author of logdrop. I like small tools that do one thing well.
+
+:NOW
+Stabilising v1.4.0 — patches welcome, big features go to the v2.0 milestone.
+
+:INFO
+What is logdrop?
+logdrop is a zero-dependency CLI that sits between your process and your observability stack.
+Pipe any stdout/stderr into it and it will tail, filter by log level or regex, and forward
+structured JSON to a local file, a webhook, or a cloud sink (Datadog, Loki, CloudWatch).
+
+It ships as a single static binary. No runtime. No config file required for basic use.
+Drop it on a server, point it at a process, and you're done in 30 seconds.
+
+:QUOTE
+Your logs should go where you need them, not where your framework decided.
+
+:COUNTER
+6 800 GitHub Stars
+
+:COUNTER
+112 000 Monthly Downloads
+
+:COUNTER
+3 Active Contributors
+
+:CHECKLIST
+v1.4.0 Milestone
+[x] Regex filter engine
+[x] JSON + logfmt parsers
+[x] Datadog sink
+[x] AWS CloudWatch sink
+[ ] Grafana Loki sink
+[ ] Config file schema (TOML)
+[ ] Windows build in CI
+
+:NOTE
+logdrop intentionally has no plugin system and no daemon mode. Every feature ships in the binary
+or not at all. This keeps the attack surface small and the install story dead simple.
+If you need orchestration, wrap it in systemd or a Dockerfile — it plays well with both.
+
+:PATH
+v1.x → v2.0
+From single-process tail to multi-source fan-in
+
+:LINK
+https://github.com/moliveira-dev/logdrop
+logdrop on GitHub
+
+:LINK
+https://logdrop.dev/docs
+Full documentation
+
+:SOCIALS
+Find Marcus online
+https://github.com/moliveira-dev
+https://twitter.com/moliveira_dev
+https://linkedin.com/in/marcusoliveira-dev
+
+:CONTACT
+Security reports & sponsorship
+marcus@logdrop.dev
