@@ -1,4 +1,4 @@
-# Slatesource — Slate as Code
+# Slatesource ~ Slate as Code
 
 Connect a GitHub repository to keep your slates in sync. Push a commit, your slate updates automatically.
 
@@ -154,5 +154,5 @@ From first commit to 4k downloads
 ## Links
 
 - Chip types visual reference — [slatesource.com/chips](https://slatesource.com/chips)
-- `.chext` format docs — [slatesource.com/chext](https://slatesource.com/chext)
-- Connect your repo — [slatesource.com/settings](https://slatesource.com/settings)
+- `.chext` format docs — [slatesource.com/chips/chext](https://slatesource.com/chips/chext)
+- Register — [slatesource.com/register](https://slatesource.com/register)

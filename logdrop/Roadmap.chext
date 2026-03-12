@@ -5,7 +5,6 @@
 
 :INFO
 v2.0 Roadmap
-CENTER
 v2.0 is a significant rethink of logdrop's internals. The headline feature is multi-source
 fan-in: instead of piping one process, you define a set of named sources (files, processes,
 sockets) and logdrop merges them into a single enriched stream.
@@ -67,7 +66,3 @@ v2.0 GitHub Milestone — live issue tracker
 :LINK
 https://github.com/moliveira-dev/logdrop/discussions/141
 RFC: Multi-source fan-in design discussion
-
-:DURATION
-2026-01-01T00:00:00Z
-2026-12-31T00:00:00Z
