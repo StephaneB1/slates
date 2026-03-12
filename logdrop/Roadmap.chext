@@ -10,7 +10,7 @@ fan-in: instead of piping one process, you define a set of named sources (files,
 sockets) and logdrop merges them into a single enriched stream.
 
 This page is the canonical planning document. It is generated from the repo — every merged PR
-that closes a roadmap task updates this page automatically via Slatesource!
+that closes a roadmap task updates this page automatically via Slatesource.
 
 :NOW
 v2.0 in active design — no release date committed yet. Breaking changes expected.
