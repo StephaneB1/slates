@@ -38,7 +38,7 @@ Shipping Draftkit v2.0 — launch week in progress.
 42 M Words Written
 |
 :COUNTER.half
-4.8 / 5 App Rating
+4.8 App Rating
 
 
 // -------------------------------------------
@@ -56,9 +56,11 @@ The best writing tool is the one that gets out of your way.
 
 :INFO
 About Draftkit
-Draftkit is a distraction-free writing and publishing toolkit for bloggers, newsletter writers,
-and indie content creators. Write in Markdown, publish to your own domain, and reach your audience
-directly — no middleman, no subscription, no algorithm deciding your reach.
+Draftkit is a distraction-free writing and publishing \
+toolkit for bloggers, newsletter writers, and indie content \
+creators. Write in Markdown, publish to your own domain, and \
+reach your audience directly — no middleman, no subscription, \
+no algorithm deciding your reach.
 
 Available on macOS, Windows, and the web. One-time purchase, yours forever.
 |
@@ -122,9 +124,9 @@ Public Roadmap
 
 :INFO
 The Story
-Draftkit started as a personal tool Alex built for his own newsletter in 2019. After sharing it
-with a few writer friends, it grew quietly by word of mouth for two years before a Product Hunt
-launch in 2021 pushed it to 1 000 users overnight. Version 2.0 is the first major rethink of
+Draftkit started as a personal tool Alex built for his own newsletter in 2019. After sharing it \
+with a few writer friends, it grew quietly by word of mouth for two years before a Product Hunt \
+launch in 2021 pushed it to 1 000 users overnight. Version 2.0 is the first major rethink of \
 the product since that launch.
 |
 :COUNTER.half
