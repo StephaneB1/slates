@@ -1,0 +1,165 @@
+// ============================================================
+// draftkit - Home page
+// Reference slate: all chip types, connections, and sizing.
+// ============================================================
+
+
+// -------------------------------------------
+// STANDALONE FULL: PROFILE
+// -------------------------------------------
+
+:PROFILE
+Jane Doe
+San Francisco, CA
+Indie maker and designer building tools for independent creators since 2019.
+
+
+// -------------------------------------------
+// HORIZONTAL PAIR: NOW.half | COUNTER.half
+// Two halves side by side
+// -------------------------------------------
+
+:NOW.half
+Shipping Draftkit v2.0 — launch week in progress.
+|
+:COUNTER.half
+6 400 Active Users
+
+
+// -------------------------------------------
+// TRIPLE HALVES: three COUNTERs — first two
+// side by side, third wraps left-aligned below
+// -------------------------------------------
+
+:COUNTER.half
+98.9% Uptime
+|
+:COUNTER.half
+42 M Words Written
+|
+:COUNTER.half
+4.8 / 5 App Rating
+
+
+// -------------------------------------------
+// STANDALONE FULL: QUOTE
+// -------------------------------------------
+
+:QUOTE
+The best writing tool is the one that gets out of your way.
+
+
+// -------------------------------------------
+// FULL → TWO HALVES: INFO sandwich top
+// Full INFO chip with two COUNTER halves below
+// -------------------------------------------
+
+:INFO
+About Draftkit
+Draftkit is a distraction-free writing and publishing toolkit for bloggers, newsletter writers,
+and indie content creators. Write in Markdown, publish to your own domain, and reach your audience
+directly — no middleman, no subscription, no algorithm deciding your reach.
+
+Available on macOS, Windows, and the web. One-time purchase, yours forever.
+|
+:COUNTER.half
+3 Platforms Supported
+|
+:COUNTER.half
+$49 One-Time Price
+
+
+// -------------------------------------------
+// STANDALONE FULL: CHECKLIST
+// -------------------------------------------
+
+:CHECKLIST
+What's Included
+[x] Distraction-free Markdown editor
+[x] One-click publish to custom domain
+[x] Built-in newsletter delivery (up to 5 000 subscribers)
+[x] Audience analytics dashboard
+[ ] Podcast episode support (coming v2.1)
+[ ] Team workspaces (coming v3.0)
+
+
+// -------------------------------------------
+// TWO HALVES → FULL: tasks above a note
+// -------------------------------------------
+
+:TASK.half
+[x] Ship dark mode
+|
+:TASK.half
+[ ] Migrate legacy subscribers before March 31
+|
+:NOTE
+Version 2.0 is a breaking change for custom themes. Run `draftkit migrate` before upgrading.
+A migration guide is available at draftkit.io/upgrade.
+
+
+// -------------------------------------------
+// FULL → TWO HALVES: PATH with link pair
+// Full PATH chip, two LINK halves below
+// -------------------------------------------
+
+:PATH
+v1.0 → v2.0
+From solo writing tool to full creator publishing platform
+|
+:LINK.half
+https://draftkit.io/changelog
+What's New in v2.0
+|
+:LINK.half
+https://draftkit.io/roadmap
+Public Roadmap
+
+
+// -------------------------------------------
+// FULL → LONE HALF: INFO above a single COUNTER
+// -------------------------------------------
+
+:INFO
+The Story
+Draftkit started as a personal tool Alex built for his own newsletter in 2019. After sharing it
+with a few writer friends, it grew quietly by word of mouth for two years before a Product Hunt
+launch in 2021 pushed it to 1 000 users overnight. Version 2.0 is the first major rethink of
+the product since that launch.
+|
+:COUNTER.half
+5 Years in Development
+
+
+// -------------------------------------------
+// STANDALONE FULL: DURATION
+// -------------------------------------------
+
+:DURATION
+2019-06-01T00:00:00Z
+2026-03-01T00:00:00Z
+
+
+// -------------------------------------------
+// STANDALONE FULL: NOTE
+// -------------------------------------------
+
+:NOTE
+Draftkit is built and maintained by a single developer. Support is personal and direct — you will
+always reach a human. Response time is under 24 hours on weekdays.
+
+
+// -------------------------------------------
+// TWO FULLS CONNECTED: SOCIALS | CONTACT
+// Shared border, vertical stack within a group
+// -------------------------------------------
+
+:SOCIALS
+Follow the Build
+https://twitter.com/draftkit
+https://bsky.app/profile/draftkit.io
+https://github.com/alexrivera/draftkit
+|
+:CONTACT
+Questions & Licensing
+alex@draftkit.io

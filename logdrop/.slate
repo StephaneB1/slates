@@ -1,2 +1,0 @@
-name: logdrop
-description: Zero-dependency CLI for tailing, filtering, and forwarding structured logs — from any process to any destination.

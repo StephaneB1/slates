@@ -82,7 +82,6 @@ Full visual reference at [slatesource.com/chips](https://slatesource.com/chips).
 | `PROFILE`   | name                                 | location                                        | bio (lines joined, max 100 chars) |
 | `SOCIALS`   | title                                | URL                                             | more URLs…                        |
 | `PATH`      | title                                | subtitle                                        | —                                 |
-| `DURATION`  | start (ISO 8601)                     | end (ISO 8601)                                  | —                                 |
 | `CONTACT`   | title                                | subtitle / email                                | —                                 |
 
 > `MOMENT` and `GALLERY` are reserved chip types but are not yet supported via `.chext` — they require file uploads and
