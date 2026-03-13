@@ -1,37 +1,30 @@
 // ============================================================
-// draftkit - Home page
-// Reference slate: all chip types, connections, and sizing.
+// draftkit — Home
+// Exercises: all chip types · chip edits · all layout patterns
 // ============================================================
 
 
-// -------------------------------------------
-// STANDALONE FULL: PROFILE
-// -------------------------------------------
-
-:PROFILE
-Jane Doe
+:PROFILE [image:profile.png]
+Alex Rivera
 San Francisco, CA
 Indie maker and designer building tools for independent creators since 2019.
 
 
-// -------------------------------------------
-// HORIZONTAL PAIR: NOW.half | COUNTER.half
-// Two halves side by side
-// -------------------------------------------
+:INFO [theme:dark, align:center, links:https://draftkit.io]
+Draftkit 2.0 is Here
+The distraction-free writing and publishing toolkit for indie creators. \
+Write in Markdown, publish to your own domain, reach your audience directly - \
+no middleman, no algorithm, no subscription tax.
+
 
 :NOW.half
 Shipping Draftkit v2.0 — launch week in progress.
 |
-:COUNTER.half
-6 400 Active Users
+:COUNTER.half [links:https://draftkit.io/stats]
+6400 Active Users
 
 
-// -------------------------------------------
-// TRIPLE HALVES: three COUNTERs — first two
-// side by side, third wraps left-aligned below
-// -------------------------------------------
-
-:COUNTER.half
+:COUNTER.half [links:https://status.draftkit.io]
 98.9% Uptime
 |
 :COUNTER.half
@@ -41,41 +34,33 @@ Shipping Draftkit v2.0 — launch week in progress.
 4.8 App Rating
 
 
-// -------------------------------------------
-// STANDALONE FULL: QUOTE
-// -------------------------------------------
+:GALLERY [displayStyle:classic]
+screenshot-editor.png
+screenshot-publish.png
+screenshot-analytics.png
+screenshot-mobile.png
 
-:QUOTE
+
+:QUOTE [links:https://draftkit.io/blog/philosophy]
 The best writing tool is the one that gets out of your way.
 
 
-// -------------------------------------------
-// FULL → TWO HALVES: INFO sandwich top
-// Full INFO chip with two COUNTER halves below
-// -------------------------------------------
+:INFO [align:right]
+What You Get
+Draftkit is a one-time purchase that includes everything: editor, publisher, \
+newsletter delivery, and analytics. No subscriptions. No hidden fees. \
+No algorithm deciding who reads your work.
 
-:INFO
-About Draftkit
-Draftkit is a distraction-free writing and publishing \
-toolkit for bloggers, newsletter writers, and indie content \
-creators. Write in Markdown, publish to your own domain, and \
-reach your audience directly — no middleman, no subscription, \
-no algorithm deciding your reach.
-
-Available on macOS, Windows, and the web. One-time purchase, yours forever.
+Available on macOS, Windows, and the web. One license covers all three.
 |
 :COUNTER.half
-3 Platforms Supported
+3 Platforms
 |
 :COUNTER.half
 $49 One-Time Price
 
 
-// -------------------------------------------
-// STANDALONE FULL: CHECKLIST
-// -------------------------------------------
-
-:CHECKLIST
+:CHECKLIST [links:https://draftkit.io/changelog]
 What's Included
 [x] Distraction-free Markdown editor
 [x] One-click publish to custom domain
@@ -85,27 +70,28 @@ What's Included
 [ ] Team workspaces (coming v3.0)
 
 
-// -------------------------------------------
-// TWO HALVES → FULL: tasks above a note
-// -------------------------------------------
-
-:TASK.half
+:TASK.half [label:shipped, labelColor:#27ae60]
 [x] Ship dark mode
 |
-:TASK.half
-[ ] Migrate legacy subscribers before March 31
+:TASK.half [status:in_progress, label:urgent, labelColor:#e74c3c, deadline:2026-03-31T00:00:00Z]
+Migrate legacy subscribers
 |
-:NOTE
-Version 2.0 is a breaking change for custom themes. Run `draftkit migrate` before upgrading.
-A migration guide is available at draftkit.io/upgrade.
+:TASK.half [status:open, label:v2.1, labelColor:#3498db]
+Podcast episode support
 
 
-// -------------------------------------------
-// FULL → TWO HALVES: PATH with link pair
-// Full PATH chip, two LINK halves below
-// -------------------------------------------
+:TASK.half [status:done, label:released, labelColor:#27ae60]
+Finalise v2.0 release notes
+|
+:TASK.half [status:in_progress, label:in review, labelColor:#f39c12]
+Update onboarding flow
+|
+:NOTE [links:https://draftkit.io/upgrade]
+Version 2.0 is a breaking change for custom themes. Run `draftkit migrate` before \
+upgrading. A full migration guide is at draftkit.io/upgrade.
 
-:PATH
+
+:PATH [links:https://draftkit.io/changelog]
 v1.0 → v2.0
 From solo writing tool to full creator publishing platform
 |
@@ -116,45 +102,43 @@ What's New in v2.0
 :LINK.half
 https://draftkit.io/roadmap
 Public Roadmap
+|
+:NOTE
+v1.0 shipped June 2021. v2.0 is the result of two years of feedback from 6 400 writers.
 
 
-// -------------------------------------------
-// FULL → LONE HALF: INFO above a single COUNTER
-// -------------------------------------------
-
-:INFO
-The Story
-Draftkit started as a personal tool Alex built for his own newsletter in 2019. After sharing it \
-with a few writer friends, it grew quietly by word of mouth for two years before a Product Hunt \
-launch in 2021 pushed it to 1 000 users overnight. Version 2.0 is the first major rethink of \
-the product since that launch.
+:IMAGE.half
+product-launch.png
 |
 :COUNTER.half
+847 Sign-ups on Launch Day
+
+
+:MOMENT
+behind-the-scenes.png
+Building Draftkit
+San Francisco - 2024
+
+:INFO [align:left, links:https://draftkit.io/about]
+The Story
+Draftkit started as a personal tool Alex built for his own newsletter in 2019. After \
+sharing it with a few writer friends, it grew quietly by word of mouth for two years \
+before a Product Hunt launch in 2021 pushed it to 1 000 users overnight. Version 2.0 \
+is the first major rethink of the product since that launch.
+|
+:COUNTER.half [links:https://draftkit.io/about]
 5 Years in Development
 
-
-// -------------------------------------------
-// STANDALONE FULL: DURATION
-// -------------------------------------------
 
 :DURATION
 2019-06-01T00:00:00Z
 2026-03-01T00:00:00Z
 
 
-// -------------------------------------------
-// STANDALONE FULL: NOTE
-// -------------------------------------------
+:NOTE [links:https://draftkit.io/support]
+Draftkit is built and maintained by a single developer. Support is personal and \
+direct — you will always reach a human. Response time is under 24 hours on weekdays.
 
-:NOTE
-Draftkit is built and maintained by a single developer. Support is personal and direct — you will
-always reach a human. Response time is under 24 hours on weekdays.
-
-
-// -------------------------------------------
-// TWO FULLS CONNECTED: SOCIALS | CONTACT
-// Shared border, vertical stack within a group
-// -------------------------------------------
 
 :SOCIALS
 Follow the Build
@@ -162,6 +146,7 @@ https://twitter.com/draftkit
 https://bsky.app/profile/draftkit.io
 https://github.com/alexrivera/draftkit
 |
-:CONTACT
+:CONTACT [links:mailto:alex@draftkit.io]
 Questions & Licensing
 alex@draftkit.io
+
