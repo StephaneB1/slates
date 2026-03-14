@@ -1,0 +1,114 @@
+:INFO
+🏆 Slate Tournament
+Host a community slate tournament with open voting and a jury for a specific \
+niche. The winner gets a cash prize, public recognition, and a permanent \
+custom label on their slate.
+
+:INFO
+💻 Chip: Code
+A syntax-highlighted code block chip with line numbers, language detection, \
+and copy-to-clipboard. Built for developer slates and technical writing.
+
+:INFO
+🧪 Chip: Formula
+Render mathematical formulas as a chip using standard notation. Useful for \
+science, finance, and education slates.
+
+:INFO
+🍔 Chip: Food
+Log a meal with type (breakfast, lunch, dinner, snack), price, and a photo. \
+Useful for food diaries, restaurant guides, and recipe slates.
+
+:INFO
+📺 Chip: YouTube Embed
+Embed a YouTube video directly in a slate as a first-class chip. No links, \
+no redirects, just the video inline.
+
+:INFO
+💭 Chip: Memory
+A timestamped, non-editable chip for capturing moments. Add a quote, \
+a photo, and a location stamp to preserve something as it was.
+
+:INFO
+🎵 Chip: Audio
+An inline audio player chip. Useful for podcasts, voice notes, music \
+previews, and any slate where sound matters.
+
+:INFO
+🎭 Chip: GIF
+Search and embed GIFs via Giphy integration. A lightweight way to add \
+motion and personality to any slate.
+
+:INFO
+📅 Chip: Calendar
+Embed a calendar view as a chip. A single day, a weekly agenda, or a \
+monthly overview, each linkable to a slate or event.
+
+:INFO
+🗓️ Chip: Timeline Event
+A horizontal milestone chip with a tick, title, date, and description. \
+Great for project histories, personal timelines, and launch sequences.
+
+:INFO
+🗳️ Chip: Poll
+Let visitors vote on a question. Multiple choice, optional deadline, \
+and a results graph that updates in real time.
+
+:INFO
+🤖 Chip: Agent
+A chip that runs a prompt on a schedule. Daily check-ins, coaching \
+nudges, or automated summaries, all inside a slate.
+
+:INFO
+🧭 Chip: Itinerary
+A route map chip with ordered waypoints connected by road, plane, or \
+straight line. Built for travel slates and event planning.
+
+:INFO
+🌤️ Chip: Weather
+Show live or forecast weather for a location. Useful for travel slates, \
+event pages, and any content tied to a place or date.
+
+:INFO
+₿ Chip: Crypto Prices
+Display live crypto prices via the CoinGecko API. A single token or \
+a small watchlist, always current.
+
+:INFO
+🎫 Chip: Ticket
+A lanyard-style chip for tickets and certificates. Title, date, holder \
+name, and a scannable code, all in one card.
+
+:INFO
+💕 Chip Likes
+Let visitors like individual chips inside a slate, a lightweight signal that \
+surfaces what resonates most within a page.
+
+:INFO
+⭐ Chip: Rating
+Collect star ratings from visitors on any chip. Useful for product reviews, \
+recommendations, and feedback-driven slates.
+
+:INFO
+⏱️ Chip: Countdown
+A live countdown chip that ticks toward a date or event. Launches, \
+deadlines, and release dates displayed in real time.
+
+:INFO
+🛒 Chip: Product
+Sell directly from a slate chip. Add an image, price, and checkout link. \
+Native commerce without leaving the slate.
+
+:INFO
+💸 Chip: Donation
+Accept tips from visitors via a dedicated chip. Simple, low-friction support \
+for creators who want to let their audience contribute.
+
+:INFO
+🗺️ Chip: Map
+Embed a location or event map chip. Useful for travel slates, event pages, \
+and any content where place matters.
+
+:CONTACT
+What would you add?
+feedback@slatesource.com

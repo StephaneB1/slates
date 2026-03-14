@@ -10,7 +10,7 @@ San Francisco, CA
 Indie maker and designer building tools for independent creators since 2019.
 
 
-:INFO [theme:dark, align:center, links:https://draftkit.io]
+:INFO [align:center, links:https://draftkit.io]
 Draftkit 2.0 is Here
 The distraction-free writing and publishing toolkit for indie creators. \
 Write in Markdown, publish to your own domain, reach your audience directly - \
@@ -34,7 +34,7 @@ Shipping Draftkit v2.0 — launch week in progress.
 4.8 App Rating
 
 
-:GALLERY [displayStyle:classic]
+:GALLERY [displayStyle:travel]
 screenshot-editor.png
 screenshot-publish.png
 screenshot-analytics.png
@@ -146,7 +146,7 @@ https://twitter.com/draftkit
 https://bsky.app/profile/draftkit.io
 https://github.com/alexrivera/draftkit
 |
-:CONTACT [links:mailto:alex@draftkit.io]
+:CONTACT
 Questions & Licensing
 alex@draftkit.io
 

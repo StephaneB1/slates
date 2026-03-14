@@ -1,0 +1,120 @@
+:INFO
+14.03.2026 - Chext Parsing Moves to Backend
+The chext parser was relocated server-side, bringing stronger validation, \
+consistent error handling, and a single source of truth for how chip files \
+are interpreted.
+
+:INFO
+01.02.2026 - GitHub Integration
+Connect a repository, push a commit, and your slate syncs automatically. The \
+biggest quality-of-life upgrade for developer-driven slates.
+
+:INFO
+15.12.2025 - AI Slate Generation
+Generate a full slate from a prompt using AI. The model drafts chip content \
+across multiple pages, giving creators a structured starting point in seconds.
+
+:INFO
+01.12.2025 - Tool Calls Migration
+AI generation was migrated to structured tool calls, making output more \
+reliable and easier to validate before writing to a slate.
+
+:INFO
+15.11.2025 - gpt-5-nano Introduction
+Switched the generation pipeline to gpt-5-nano for faster, cheaper slate \
+creation without a meaningful drop in quality.
+
+:INFO
+01.10.2025 - Slate Cloning
+Any public slate can now be duplicated as a personal starting point. Useful \
+for templates, remixes, and community-driven slate styles.
+
+:INFO
+15.08.2025 - Creator Commissions & Redeem Codes
+Revenue sharing went live for the creator programme alongside promotional \
+redeem codes, letting creators earn and offer discounts directly in the platform.
+
+:INFO
+01.07.2025 - Chip: Checklist
+A new chip type for tracked item lists. Great for to-dos, feature lists, \
+and progress tracking inside a slate.
+
+:INFO
+15.06.2025 - Personal Website Release
+Slatesource now supports personal-website-style slates, opening the platform \
+to portfolios, bio pages, and creator home pages.
+
+:INFO
+01.06.2025 - Grid Layout Revisit
+The half/full grid layout system was overhauled. Side-by-side chips are now \
+more predictable to author and more consistent to render.
+
+:INFO
+15.04.2025 - Creator Collective & Onboarding
+A curated creator programme launched alongside a redesigned onboarding flow, \
+making it easier for new creators to publish their first slate.
+
+:INFO
+01.04.2025 - Chip: Moment
+A new chip for behind-the-scenes photography. Supports a title, location, \
+and image for candid, in-the-moment content.
+
+:INFO
+01.03.2025 - Chip: Path
+A timeline chip for ordered milestones. Used for roadmaps, project histories, \
+and step-by-step journeys inside a slate.
+
+:INFO
+15.02.2025 - Chip: Gallery
+A multi-image gallery chip with configurable display styles. The first chip \
+to support rich, grid-based visual layouts.
+
+:INFO
+01.02.2025 - Chip: Counter
+A single-stat chip for surfacing a number that matters: downloads, ratings, \
+values, or any metric worth highlighting.
+
+:INFO
+15.01.2025 - Shop
+An in-app shop launched for packs and creator products, giving the platform \
+its first native commerce surface.
+
+:INFO
+01.01.2025 - Link Previews & Chip Edits
+LINK chips gained rich URL previews. Chips also became editable inline, \
+removing the need to delete and recreate to fix a typo.
+
+:INFO
+01.11.2024 - Scroll Animations (beta)
+Chips now animate in as they enter the viewport. Smooth entrance transitions \
+shipped in beta across all chip types.
+
+:INFO
+15.09.2024 - Home Page Revisit
+Full redesign of the platform home and discovery pages, with improved search \
+surfaces, better slate cards, and a cleaner editorial layout.
+
+:INFO
+01.09.2024 - R1 Release
+The first major stable release. Included a Docker infrastructure overhaul \
+and a full stats rewrite, the foundation everything since has been built on.
+
+:INFO
+15.07.2024 - Slate Page Redesign
+Complete visual overhaul of the slate viewer. New layout system, improved \
+chip rendering, and a faster reading experience on all screen sizes.
+
+:INFO
+01.06.2024 - Vite Migration
+The frontend bundler was switched from the previous setup to Vite. Faster \
+builds, faster hot reload, and a cleaner dev experience.
+
+:INFO
+01.04.2024 - Chip Migration
+All chip types were migrated to a unified data model, eliminating legacy \
+inconsistencies and making future chip development significantly easier.
+
+:INFO
+01.01.2024 - Deployment Optimisations
+Infrastructure hardened across the board: resource scaling, CDN setup, and \
+a long series of pipeline fixes that made the platform reliably fast.

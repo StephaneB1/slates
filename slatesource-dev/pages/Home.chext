@@ -1,0 +1,29 @@
+:NOW
+Shipping open development - Changelog, Roadmap, and Wishlist are live.
+
+:INFO [align:center]
+Slatesource in the Open
+This is the public development feed for Slatesource - a publishing \
+platform that turns GitHub repositories into slates. Every significant \
+release, decision, and direction is documented here, in the open.
+
+:INFO
+What You'll Find Here
+Three pages track how Slatesource is built in public.
+
+- Changelog captures releases and improvements, almost per commit.
+- Roadmap shows what is planned and in what order.
+- Wishlist holds the ideas that are on the radar but not yet committed to.
+
+:NOTE
+This slate is maintained as code in the Slatesource GitHub repository \
+and syncs automatically on every push. No editorial lag, no curated \
+spin. Just the project as it actually is.
+
+:LINK
+https://slatesource.com
+Slatesource - Build Your Slate
+
+:LINK
+https://slatesource.com/chips
+Chips Reference
