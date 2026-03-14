@@ -20,16 +20,6 @@ Log a meal with type (breakfast, lunch, dinner, snack), price, and a photo. \
 Useful for food diaries, restaurant guides, and recipe slates.
 
 :INFO
-📺 Chip: YouTube Embed
-Embed a YouTube video directly in a slate as a first-class chip. No links, \
-no redirects, just the video inline.
-
-:INFO
-💭 Chip: Memory
-A timestamped, non-editable chip for capturing moments. Add a quote, \
-a photo, and a location stamp to preserve something as it was.
-
-:INFO
 🎵 Chip: Audio
 An inline audio player chip. Useful for podcasts, voice notes, music \
 previews, and any slate where sound matters.
@@ -43,11 +33,6 @@ motion and personality to any slate.
 📅 Chip: Calendar
 Embed a calendar view as a chip. A single day, a weekly agenda, or a \
 monthly overview, each linkable to a slate or event.
-
-:INFO
-🗓️ Chip: Timeline Event
-A horizontal milestone chip with a tick, title, date, and description. \
-Great for project histories, personal timelines, and launch sequences.
 
 :INFO
 🗳️ Chip: Poll
