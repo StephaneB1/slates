@@ -1,4 +1,26 @@
 :INFO
+19.03.2026 - Chip: Portfolio & Internal Improvements
+A new Portfolio chip lets creators showcase a curated collection of slates in \
+one place. Admin tooling was also improved internally.
+
+:INFO
+18.03.2026 - Video Generation
+Video generation is now available as a slate feature, letting creators produce \
+and embed generated video content directly within their slates.
+
+:INFO
+16.03.2026 - GitHub Sync Improvements & Dynamic Sitemap
+GitHub image sync now detects image dimensions and handles public availability \
+correctly. Slates are also included in a dynamically generated sitemap for \
+better discoverability.
+
+:INFO
+15.03.2026 - UI Improvements & GitHub Slate Enhancements
+Error toasts improved, NOTE chip character limit extended, and slate delete now \
+redirects automatically. GitHub .slate files gained support for thumbnails, \
+slate type, and last-updated timestamps.
+
+:INFO
 14.03.2026 - Chext Parsing Moves to Backend
 The chext parser was relocated server-side, bringing stronger validation, \
 consistent error handling, and a single source of truth for how chip files \
