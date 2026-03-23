@@ -1,4 +1,26 @@
 :INFO
+23.03.2026 - Chip: Map, Chip Ownership & Platform Stability
+The Map chip is now live, letting creators embed a location directly inside \
+a slate. Chips now support ownership tracking. Admin tooling received \
+management improvements, and client-facing error messages were introduced \
+for clearer feedback when something goes wrong.
+
+:INFO
+22.03.2026 - Explore Screen, Product Launch Wizard & Security Hardening
+A new Explore screen surfaces random public chips as a discovery grid. \
+A Product Launch Page wizard was added to help creators go live faster. \
+Gallery and Moment chip layouts were polished for half-width rendering. \
+GitHub sync was extended to support updating .slate files directly. \
+Security hardening included Content-Security-Policy headers, IP-based \
+rate limiting on auth endpoints, and S3 filename sanitization.
+
+:INFO
+20.03.2026 - Markdown URL Integration & Error Handling
+Slates are now accessible via a .md URL extension, optimising content \
+for LLM consumption and enabling clean markdown exports. Error handling \
+was also improved across the platform.
+
+:INFO
 19.03.2026 - Chip: Portfolio & Internal Improvements
 A new Portfolio chip lets creators showcase a curated collection of slates in \
 one place. Admin tooling was also improved internally.

@@ -90,9 +90,9 @@ Accept tips from visitors via a dedicated chip. Simple, low-friction support \
 for creators who want to let their audience contribute.
 
 :INFO
-🗺️ Chip: Map
-Embed a location or event map chip. Useful for travel slates, event pages, \
-and any content where place matters.
+🔒 Private GitHub Repository Sync
+Sync slates from a private GitHub repository using a personal access token. \
+All the power of GitHub-driven workflows, without requiring a public repo.
 
 :CONTACT
 What would you add?
