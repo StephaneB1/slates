@@ -1,4 +1,59 @@
 :INFO
+03.04.2026 - Markdown on Sub-Pages & Stability Fixes
+The .md URL extension now works across sub-pages, not just root slates, \
+enabling clean markdown exports for every page. Null category handling was \
+fixed for more reliable browsing.
+
+:INFO
+01.04.2026 - Chip: Countdown, Shop Improvements & Security Fixes
+A new Countdown chip lets creators display a live countdown to any date. \
+Shop management received visual improvements including glows and layout \
+cleanups. GitHub OAuth was hardened with a CSRF state parameter, and chext \
+import validation was tightened.
+
+:INFO
+31.03.2026 - Chips: Goal & Code, Category Improvements
+Two new chips landed: Goal for tracking objectives, and Code for embedding \
+syntax-highlighted snippets. Private slates are now excluded from category \
+counts, and async categorisation accuracy was improved with nullable category \
+support.
+
+:INFO
+29.03.2026 - Category Pages, SEO & Account Deletion
+Category pages now use clean slug-based URLs (/category/travel/europe). \
+Canonical link tags were added to all server-rendered pages for better \
+search discoverability. Account deletion is now handled via anonymisation, \
+giving users a clean exit without data residue.
+
+:INFO
+28.03.2026 - Password Reset
+Password reset via email is now live, letting users regain access to their \
+account without contacting support.
+
+:INFO
+27.03.2026 - Email: AWS SES & Welcome Email
+Transactional email went live via AWS SES, starting with a welcome email on \
+signup. Server error messages are now sanitised before reaching the client, \
+preventing internal details from leaking.
+
+:INFO
+26.03.2026 - Internal Messaging
+An internal messaging system was introduced, enabling direct communication \
+between creators and the platform team.
+
+:INFO
+25.03.2026 - Frontend Code Quality Pass
+A focused frontend housekeeping pass: className combining standardised to a \
+join utility, all interface declarations converted to types, and onLoaded \
+calls unified with optional chaining across all chips.
+
+:INFO
+24.03.2026 - Chext Improvements, Component Tests & Session Security
+Chext parsing received targeted improvements alongside new component tests. \
+GitHub sync now surfaces warnings in the UI. Sessions are validated on tab \
+focus, catching expired sessions before they cause silent failures.
+
+:INFO
 23.03.2026 - Chip: Map, Chip Ownership & Platform Stability
 The Map chip is now live, letting creators embed a location directly inside \
 a slate. Chips now support ownership tracking. Admin tooling received \
