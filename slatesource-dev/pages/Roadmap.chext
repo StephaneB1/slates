@@ -1,9 +1,4 @@
 :PATH
-Chip: Code
-Syntax-highlighted code snippets as a first-class chip. Useful for developer \
-slates, tutorials, and technical documentation.
-
-:PATH
 Discovery Improvements
 Better search, tag filtering, and niche-specific pages, making it easier to \
 find slates that match a specific interest or use case.
@@ -27,11 +22,6 @@ with clear ownership and edit controls.
 Analytics Dashboard
 Per-chip engagement metrics for creators. See which chips get the most \
 attention and how visitors move through a slate.
-
-:PATH
-Internal Messaging
-Direct messaging between creators inside the platform. A lightweight \
-inbox for collaboration, feedback, and community building.
 
 :PATH
 Community Podcast
