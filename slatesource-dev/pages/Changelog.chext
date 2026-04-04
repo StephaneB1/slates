@@ -1,4 +1,11 @@
 :INFO
+04.04.2026 - Agents System & Observations
+Six specialised AI expert agents launched across tech, product, SEO, growth, UX, \
+and monetisation domains, each with a dedicated prompt and observations file. \
+An initial pass of 300 observations was added across all six agents. The developer \
+marketing campaign received a content review and targeted post revisions.
+
+:INFO
 03.04.2026 - Markdown on Sub-Pages & Stability Fixes
 The .md URL extension now works across sub-pages, not just root slates, \
 enabling clean markdown exports for every page. Null category handling was \
