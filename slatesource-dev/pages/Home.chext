@@ -76,7 +76,39 @@ The Feature Pages
 Twenty pages, one per feature, each documenting a working part of the \
 platform in depth. Where a feature can demonstrate itself, it does. The \
 Shader page runs a live shader. The Poll page carries a real poll. The Map \
-page drops a real pin. The Code page renders real code.
+page drops a real pin. The Code page renders real code. They are grouped \
+below in four sets.
+
+:PATH
+The Chips
+Eight pages on the chips themselves, from the system that holds them together \
+to the individual ones worth their own page.
+
+:PORTFOLIO
+https://slatesource.com/@steph/the-chip-system, https://slatesource.com/@steph/the-chips-catalog, https://slatesource.com/@steph/the-chip-grid-editor, https://slatesource.com/@steph/the-code-chip, https://slatesource.com/@steph/the-map-chip, https://slatesource.com/@steph/the-poll-chip, https://slatesource.com/@steph/the-shader-chip, https://slatesource.com/@steph/time-chips
+
+:PATH
+Writing and Publishing
+Six pages on how a slate is authored, structured and served, including the \
+plain text format the whole repository is written in.
+
+:PORTFOLIO
+https://slatesource.com/@steph/chext, https://slatesource.com/@steph/github-sync-slates-as-code, https://slatesource.com/@steph/nested-slates-and-multi-page, https://slatesource.com/@steph/seo-and-server-rendering, https://slatesource.com/@steph/slate-types, https://slatesource.com/@steph/the-playground
+
+:PATH
+People and Discovery
+Four pages on the parts that involve other people, ranked honestly by how \
+finished they actually are.
+
+:PORTFOLIO
+https://slatesource.com/@steph/public-profiles, https://slatesource.com/@steph/the-social-layer, https://slatesource.com/@steph/the-discovery-feed, https://slatesource.com/@steph/the-creator-collective
+
+:PATH
+The Account
+Two smaller pages on what you can buy and what you can change.
+
+:PORTFOLIO
+https://slatesource.com/@steph/shop-and-slate-credits, https://slatesource.com/@steph/themes
 
 :QUOTE [quotetype:PLAIN]
 The details of the work are the flex. Three years of evenings deserves an \
