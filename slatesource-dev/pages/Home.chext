@@ -1,32 +1,95 @@
+// Slatesource Dev - home page
+// Reworked 2026-07-19. Opens the workshop doors: how long, the arc, what's on the bench now,
+// and a map into Changelog, Roadmap, Wishlist and the feature pages.
+
 :IMAGE
 slate_banner.jpg
 |
 :NOW
-Shipping open development - Changelog, Roadmap, and Wishlist are live.
+Portfolio chip 2.0, link entries alongside slate references. Then the category mural.
 
 :INFO [align:center]
 Slatesource in the Open
-This is the public development feed for Slatesource - a publishing \
-platform that turns GitHub repositories into slates. Every significant \
-release, decision, and direction is documented here, in the open.
+This is the workshop, not the showroom. Every release, every decision and \
+every rough edge of building a publishing platform, written down as it \
+happens. The work is the thing worth showing.
+
+:DURATION
+2023-05-11T00:00:00Z
+2026-07-19T00:00:00Z
 
 :INFO
-What You'll Find Here
-Three pages track how Slatesource is built in public.
+Since the First Commit
+The first commit landed on 11 May 2023 and said, in full, "Initial commit". \
+Everything after it was built in evenings and weekends, one problem at a time.
 
-- Changelog captures releases and improvements, almost per commit.
-- Roadmap shows what is planned and in what order.
-- Wishlist holds the ideas that are on the radar but not yet committed to.
+:STATS
+[icon:CHART] Commits | 1,801
+[icon:CLOCK] In the making | 3 years, 2 months
+[icon:BOLT] Backend files | 866
+[icon:BOLT] Frontend files | 700
+[icon:CHECK] Chip types shipped | 29 of 43
+
+:INFO
+The Long Way Round
+None of this was built in a sprint. The chip system moved to a unified data \
+model in April 2024, more than a year before most of the chips that use it \
+existed. The chext parser moved server-side in March 2026, two years after \
+the first slate rendered. Foundations first, features after. Slower, and it \
+holds up better.
+
+:TIMELINE
+The Arc So Far
+2023-05-11 | First commit
+2024-01 | Infrastructure hardening, CDN and pipelines
+2024-04 | Chips migrated to one data model
+2024-06 | Frontend moved to Vite
+2024-09 | R1, the first stable release
+2025-04 | Creator Collective opens
+2025-06 | Grid layout overhaul, half and full
+2026-02 | GitHub integration, slates sync from a repo
+2026-03 | Chext parser moves server-side
+2026-07 | 43 chip types in the vocabulary
+
+:INFO
+What a Slate Can Hold
+Forty-three chip types exist as a vocabulary. Twenty-nine of them can be \
+written today from a plain text file in a Git repository. The feature pages \
+take one part each and open it up properly: what it does, how it behaves in \
+use, and where the design went sideways before it settled.
+
+:PATH
+Changelog
+Releases and improvements, close to per commit, going back to January 2024.
+
+:PATH
+Roadmap
+What is planned and roughly in what order. Subject to change, and it changes.
+
+:PATH
+Wishlist
+Ideas on the radar and not yet committed to. Several entries here have since \
+shipped, which is the honest way to read a wishlist.
+
+:INFO
+The Feature Pages
+Twenty pages, one per feature, each documenting a working part of the \
+platform in depth. Where a feature can demonstrate itself, it does. The \
+Shader page runs a live shader. The Poll page carries a real poll. The Map \
+page drops a real pin. The Code page renders real code.
+
+:QUOTE [quotetype:PLAIN]
+The details of the work are the flex. Three years of evenings deserves an \
+artifact that shows it.
 
 :NOTE
-This slate is maintained as code in the Slatesource GitHub repository \
-and syncs automatically on every push. No editorial lag, no curated \
-spin. Just the project as it actually is.
-
-:LINK
-https://slatesource.com
-Slatesource - Build Your Slate
+This slate is maintained as code and syncs on every push. Nothing here is \
+staged for an audience, which is rather the point of keeping it in the open.
 
 :LINK
 https://slatesource.com/chips
-Chips Reference
+The full chip reference
+
+:LINK
+https://slatesource.com
+Build your own slate
